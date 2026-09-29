@@ -1,19 +1,24 @@
 # Cadena causal y auditoría de supuestos
 
-Cadena de trabajo (a discutir y corregir; es un punto de partida, no un resultado):
+Cadena reorientada al desenlace femenino (punto de partida, no resultado):
 
-1. El nicho peneano tiene estados ecológicos distinguibles.
-2. Esos estados difieren en carga y composición de bacterias asociadas a VB.
-3. El estado del hombre influye en la reintroducción de bacterias a la mujer tras el tratamiento.
-4. Modificar el estado masculino reduce la recurrencia en la mujer.
-5. El estado modificado se mantiene el tiempo suficiente para que importe.
+1. Tras el tratamiento, el nicho vaginal alcanza un estado de baja carga de bacterias asociadas a VB.
+2. Ese estado no es único: hay configuraciones distintas con distinto riesgo de recaída.
+3. Parte de la recaída procede de una reexposición externa, no solo de la persistencia interna.
+4. El reservorio de esa reexposición incluye al hombre.
+5. El reservorio masculino se reconstituye en una ventana temporal concreta.
+6. Intervenir sobre el hombre reduce la recurrencia en la mujer.
+7. El efecto se mantiene más allá del periodo tratado.
 
-| Eslabón | Contrastado directamente | Indirectamente | No contrastado | Estudios | Certeza |
-|---------|--------------------------|----------------|----------------|----------|---------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| Eslabón | Estado del contraste | Estudios | Certeza |
+|---------|----------------------|----------|---------|
+| 1 | Contrastado | pilotos 2018 y 2021 | pendiente de ficha |
+| 2 | Poco contrastado | | no comprobado |
+| 3 | Indirecto | | no comprobado |
+| 4 | Indirecto | | no comprobado |
+| 5 | Sugerido, no contrastado frente al desenlace | pilotos 2018 y 2021 | sugerido |
+| 6 | Contrastado en un ECA | StepUp 2025 | pendiente de ficha |
+| 7 | No contrastado: el seguimiento acaba a las 12 semanas | StepUp 2025 | no comprobado |
 
-Se rellena solo con lo extraído de las fichas de evidencia aprobadas.
+Los eslabones 2, 3 y 4 son los huecos candidatos. El 6 está demostrado como efecto, pero
+**no se sabe por qué mecanismo**, y eso es lo que StepUp deja abierto.
