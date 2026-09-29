@@ -1,0 +1,23 @@
+# Datos crudos y derivados pesados: no se suben (solo manifiestos y checksums)
+data/raw/
+data/interim/
+data/processed/
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.biom
+*.qza
+*.qzv
+
+# Python / R / notebooks
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Sistema
+.DS_Store
